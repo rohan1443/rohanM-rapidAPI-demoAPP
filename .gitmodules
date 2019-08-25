@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/rohan1443/rohanM-rapidAPI-clientAPP.git
