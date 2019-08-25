@@ -33,3 +33,11 @@ npm run start
 UI client is configured for port 3000 and express server running at port 3001
 
 To access the client, after running the project visit : ```localhost:3000/```
+
+![initial Screen](https://user-images.githubusercontent.com/12879983/63654297-61b84980-c796-11e9-962a-ddc1b3877be4.png)
+
+![loading data](https://user-images.githubusercontent.com/12879983/63654347-d8eddd80-c796-11e9-81d3-fd02a5b768c2.png)
+
+![displaying data](https://user-images.githubusercontent.com/12879983/63654298-63820d00-c796-11e9-9c28-724e22c53301.png)
+
+
