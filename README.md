@@ -2,6 +2,8 @@
 
 This is a React-Redux and Express based demo app utilizing Rapid skyscanner API to fetch the cheapest flight price for the next 30 days from the present day and showing them in a calendar for different routes.
 
+client-app using create-react-app and server using express-generator
+
 How to Run this project:
 
 ```javascript
