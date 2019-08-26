@@ -4,6 +4,8 @@ This is a React-Redux and Express based demo app utilizing Rapid skyscanner API 
 
 client-app using create-react-app and server using express-generator
 
+A temporary caching feature of 60 seconds using node-cache has been implemented for convenience.
+
 How to Run this project:
 
 ```javascript
