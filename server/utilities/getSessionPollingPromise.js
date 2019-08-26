@@ -1,6 +1,6 @@
-var express = require('express');
-var uri = require('lil-uri')
-var _ = require('lodash')
+const express = require('express')
+    , uri = require('lil-uri')
+    , _ = require('lodash')
 
 var handlePromise = require('../utilities/handlePromise')
 var getPerSessionPollingData = require('../utilities/getSessionPollingPromise')
